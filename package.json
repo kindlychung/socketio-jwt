@@ -31,19 +31,18 @@
   "license": "MIT",
   "dependencies": {
     "jsonwebtoken": "^8.3.0",
-    "xtend": "~2.1.2"
+    "xtend": "~4.0.2"
   },
   "devDependencies": {
-    "@types/socket.io": "~1.4.29",
-    "body-parser": "~1.17.1",
-    "express": "~4.15.2",
+    "body-parser": "^1.19.1",
+    "express": "~4.17.2",
     "mocha": "~3.2.0",
-    "request": "~2.81.0",
+    "request": "^2.88.0",
     "serve-static": "^1.13.2",
     "q": "^1.5.1",
     "server-destroy": "~1.0.1",
-    "should": "~11.2.1",
-    "socket.io": "^1.7.3",
-    "socket.io-client": "^1.7.3"
+    "should": "~13.2.1",
+    "socket.io": "^3.1.0",
+    "socket.io-client": "^3.1.0"
   }
 }
